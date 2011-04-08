@@ -1,6 +1,3 @@
-require 'nestful'
-require 'rexml/document'
-
 module Esendex
   class Account
     attr_accessor :account_reference, :username, :password

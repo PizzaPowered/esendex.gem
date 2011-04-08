@@ -1,4 +1,3 @@
-require 'rexml/document'
 include REXML
 
 #<messages>
